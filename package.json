@@ -1,0 +1,15 @@
+{
+  "name": "20951a05j1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^8.24.0",
+    "minimist": "^1.2.6"
+  }
+}
